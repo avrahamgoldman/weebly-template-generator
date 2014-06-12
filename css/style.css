@@ -1,0 +1,53 @@
+html, body {
+  height:100%;
+  width:100%;
+  padding:0px;
+  margin:0px;
+  font-size: 16px;
+  overflow-y:hidden;
+}
+/*resets*/
+ul {
+  margin:0px;
+  padding:0px;
+  font-size: 100%;
+}
+
+#editor-top {
+  background:rgba(38,138,224,1);
+}
+
+#editor-left {
+  background:#f2F2F2;
+  width:230px;
+  height:100%;
+  float:left;
+  overflow-y:scroll;
+}
+
+#editor-options li {
+  display: inline;
+}
+
+#editor-settings {
+
+}
+
+.settings-set {
+  display:none;
+}
+
+.editor-selector {
+  display: none;
+}
+
+#editor-webpage {
+  float:right;
+  height:100%;
+}
+
+#editor-webpage iframe {
+  width:100%;
+  height:100%;
+  border:none;
+}

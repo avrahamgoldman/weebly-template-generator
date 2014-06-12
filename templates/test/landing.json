@@ -1,0 +1,19 @@
+{
+  "html": {
+    "template": "test",
+    "page": "landing"
+  },
+  "generate_css": {
+    "background": "blue",
+    "site_title": {
+      "font_family": "default",
+      "font_size": "36",
+      "color": "black"
+    }
+  },
+  "custom_css": {
+    "selector": {
+      "property": "value"
+    }
+  }
+}

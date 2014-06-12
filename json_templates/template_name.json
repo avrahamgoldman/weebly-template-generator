@@ -1,0 +1,141 @@
+{
+  "html" : {
+    "template" : "test"
+  },
+  "css" : {
+    "background" : {
+      "background" : "blue",
+      "min-height" : "100%"
+    },
+    "container" : {
+      "min-height" : "100%",
+      "width" : "90%",
+      "margin" : "auto",
+      "background" : "white"
+    },
+    "header" : {
+      
+    },
+    "site-title" : {
+      "font-family" : "inherit",
+      "font-size" : "36px",
+      "color" : "black"
+    },
+    "navigation" : {
+      "font-family" : "inherit",
+      "font-size" : "13px"
+    },
+    "wsite-menu-default" : {
+      "list-style-type" : "none"
+    },
+    "wsite-menu-default li" : {
+      "display" : "inline-block",
+      "margin-right" : "15px"
+    },
+    "phone-number" : {
+      "font-family" : "inherit",
+      "font-size" : "13px",
+      "font-weight" : "regular",
+      "color" : "grey"
+    },
+    "headline" : {
+      "font-family" : "inherit",
+      "font-size" : "13px",
+      "color" : "grey",
+      "line-height" : "initial"
+    },
+    "sub-headline" : {
+      "font-family" : "inherit",
+      "font-size" : "13px",
+      "font-weight" : "regular",
+      "color" : "grey",
+      "line-height" : "initial"
+    },
+    "wsite-content-title" : {
+      "font-family" : "inherit",
+      "font-size" : "13px",
+      "color" : "grey",
+      "line-height" : "initial"
+    },
+    "p" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "font-weight" : "regular",
+      "color" : "grey",
+      "line-height" : "initial"
+    },
+    "link" : {
+      "color" : "initial"
+    },
+    "link:hover" : {
+      "color" : "initial"
+    },
+    "button" : {
+      "font-family" : "inherit",
+      "font-size" : "14px",
+      "font-weight" : "regular"
+    },
+    "large-button" : {
+      "font-size" : "15px"
+    },
+    "blockquotes" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "font-weight" : "regular",
+      "color" : "grey",
+      "line-height" : "initial"
+    },
+    "blog-post-title" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "color" : "grey",
+      "line-height" : "initial"
+    },
+    "blog-post-title:hover" : {
+      "color" : "lightgrey"
+    },
+    "image-captions" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "line-height" : "initial"
+    },
+    "thumbnail-captions" : {
+      "font-family" : "inherit",
+      "font-size" : "16px"
+    },
+    "lightbox-captions" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "font-weight" : "regular"
+    },
+    "slideshow-captions" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "font-weight" : "regular"
+    },
+    "product-title" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "color" : "black",
+      "line-height" : "initial"
+    },
+    "product-price" : {
+      "font-family" : "inherit",
+      "font-size" : "16px",
+      "font-weight" : "regular",
+      "color" : "black"
+    },
+    "footer-stuff" : {},
+    "content" : {
+      
+    },
+    "footer" : {
+      
+    }
+  },
+  "custom_css" : {
+    "selector" : {
+      "property" : "value"
+    }
+  }
+}

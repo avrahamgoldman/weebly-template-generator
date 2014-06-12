@@ -1,0 +1,214 @@
+{
+  "general" : {
+    "container" : [
+      "Container",
+      "Top Padding",
+      "padding-top",
+      "Bottom Padding",
+      "padding-bottom",
+      "Right Padding",
+      "padding-right",
+      "Left Padding",
+      "padding-left"
+    ]
+  },
+  "header" : {
+    "site-title" : [
+      "Site Title",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Color",
+      "color",
+      "Alignment",
+      "text-align"
+    ]
+  },
+  "navigation" : {
+    "navigation" : [
+      "Navigation",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size"
+    ]
+  },
+  "content" : {
+
+  },
+  "footer" : {
+
+  },
+  "typography" : {
+    "phone-number" : [
+      "Phone Number",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight",
+      "Color",
+      "color"
+    ],
+    "headline" : [
+      "Headline",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Color",
+      "color",
+      "Line Height",
+      "line-height"
+    ],
+    "sub-headline" : [
+      "Sub Headline",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight",
+      "Color",
+      "color",
+      "Line Height",
+      "line-height"
+    ],
+    "wsite-content-title" : [
+      "Paragraph Title",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Color",
+      "color",
+      "Line Height",
+      "line-height"
+    ],
+    "p" : [
+      "Paragraph",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight",
+      "Color",
+      "color",
+      "Line Height",
+      "line-height"
+    ],
+    "link" : [
+      "Link",
+      "Color",
+      "color"
+    ],
+    "link:hover" : [
+      "Link on Hover",
+      "Color",
+      "color"
+    ],
+    "button" : [
+      "Button",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight"
+    ],
+    "large-button" : [
+      "Large Button",
+      "Size",
+      "font-size"
+    ],
+    "blockquotes" : [
+      "blockquotes",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight",
+      "Color",
+      "color",
+      "Line Height",
+      "line-height"
+    ],
+    "blog-post-title" : [
+      "Blog Post Title",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Color",
+      "color",
+      "Line Height",
+      "line-height"
+    ],
+    "blog-post-title:hover" : [
+      "Blog Post Title on Hover",
+      "Color",
+      "color"
+    ],
+    "image-captions" : [
+      "Image Caption",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Line Height",
+      "line-height"
+    ],
+    "thumbnail-captions" : [
+      "Thumbnail Captions",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size"
+    ],
+    "lightbox-captions" : [
+      "Lightbox captions",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight"
+    ],
+    "slideshow-captions" : [
+      "Slideshow Captions",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight"
+    ],
+    "product-title" : [
+      "Product Title",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Color",
+      "color",
+      "Line Height",
+      "line-height"
+    ],
+    "product-price" : [
+      "Product Price",
+      "Font",
+      "font-family",
+      "Size",
+      "font-size",
+      "Font Weight",
+      "font-weight",
+      "Color",
+      "color"
+      
+    ]
+  }
+}
